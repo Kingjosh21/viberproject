@@ -1,0 +1,182 @@
+body {
+    width: 100%;
+    background: rgb(244,244,244);
+    overflow-x: hidden;
+    /* position: relative; */
+}
+.logo {
+    border: none;
+    display: flex;
+    height: 100px;
+    margin-top: 10px;
+    background: white;
+}
+.logo a {
+    color: grey;
+}
+.Bread {
+    /* border: 1px solid black; */
+    display: flex;
+    height: 50px;
+    width: 800px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-top: 30px;
+    
+}
+ded {
+    
+}
+.bread a {
+    text-decoration: none;
+}
+.pie {
+    border: none;
+    /* display: flex; */
+    height: 50px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.pie a {
+    text-decoration: none;
+}
+.Food {
+    /* border: 1px solid black; */
+    /* position: absolute; */
+    /* top: 20px; */
+    /* border: 1px solid black; */
+    /* margin-left: 300px; */
+    height: 600px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    background: white;
+    margin-bottom: 50px;
+}
+.p1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    margin-top: 30px;
+
+}
+.Food a {
+    color: lightskyblue;
+}
+.Hilda {
+    margin-top: 50px;
+    height: 15px;
+    width: 20px;
+    margin-right: 200px;
+}
+.Record {
+    margin-left: -200px;
+}
+.but {
+    width: 200px;
+    height: 40px;
+}
+.cook {
+    width: 40px;
+    margin-left: 433px;
+    margin-top: -30px;
+}
+input[type=number] {
+    padding-left: 50px;
+}
+.cook::placeholder {
+    font-size: 15px;
+}
+.navx {
+    font-size: 14px;
+    margin-left: -100px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+}
+.buy {
+    width: 200px;
+    height: 40px;
+}
+.Josh {
+    margin-left: -80px;
+    text-decoration: none;
+}
+.josh:hover {
+    text-decoration: underline;
+}
+button {
+    height: 40px;
+    width: 250px;
+    margin-top: 30px;
+    border-radius: 30px;
+   
+}
+
+.Food button {
+    background: rgb(87,78,146);
+     /* background: url(image/rakuten-nba.webp); */
+     /* background-size: cover;
+     background-position: center; */
+
+}
+.Box {
+    border: 1px solid black;
+    height: 15px;
+    width: 15px;
+    margin-left: 400px;
+    margin-top: 30px;
+    
+}
+.chips {
+    border: none;
+    margin-top: -17px;
+    margin-left: -130px;
+    font-size: 14px;
+
+}
+.pes {
+    /* border: 1px solid black; */
+    width: 100%;
+    display: flex;
+    align-items: start;
+    justify-content:  space-evenly;
+    height: 230px;
+    background-color: rgb(87,78,146);
+}
+.book {
+    /* border: 1px solid black; */
+    height: 200px;
+}
+a {
+    color: white;
+    text-decoration: none;
+
+}
+a:hover {
+    text-decoration: underline;
+}
+.Football {
+    /* border: 1px solid black; */
+    font-size: 17px;
+    width: 50px;
+    height: 50px;
+}
+.nba {
+    margin-left: 100px;
+}
+.projects {
+    /* border: 1px solid black; */
+    width: 60%;
+    margin-left: 450px;
+    margin-top: -100px;
+    justify-content: space-evenly;
+    display: flex;
+}
+.book a {
+    color: grey;
+}
+
+
+
+
